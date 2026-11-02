@@ -1,19 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Monochrome developer profile banner</title>
-  <desc id="desc">A dark canvas with dotted wave forms around a minimal terminal window.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammadaziz’s developer profile banner</title>
+  <desc id="desc">An indigo and cyan developer banner with abstract orbital lines and a Kotlin code window.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151a22"/></linearGradient>
-    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.25" fill="#d6d9df" opacity=".76"/></pattern>
-    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".04"/><stop offset=".5" stop-color="#fff" stop-opacity=".88"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b14"/><stop offset=".58" stop-color="#101528"/><stop offset="1" stop-color="#0a1420"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#6d5dfc" stop-opacity=".4"/><stop offset="1" stop-color="#6d5dfc" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#8b7cff"/><stop offset="1" stop-color="#43d9e8"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#aab5d6" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#b9c5ff" opacity=".62"/></pattern>
   </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <path d="M0 92 C100 68 150 34 236 62 C300 83 340 145 424 120 L424 210 C333 224 287 168 224 154 C145 136 96 167 0 183Z" fill="url(#dots)" opacity=".82"/>
-  <path d="M1200 84 C1092 61 1045 36 960 65 C892 88 851 147 770 123 L770 213 C860 224 911 169 974 154 C1053 136 1104 165 1200 184Z" fill="url(#dots)" opacity=".82"/>
-  <path d="M250 77 C335 111 351 166 427 164 M950 78 C865 111 849 166 773 164" fill="none" stroke="#f1f3f5" stroke-width="2" stroke-dasharray="2 8" opacity=".65"/>
-  <rect x="420" y="68" width="360" height="166" rx="7" fill="#0b0e14" stroke="#d8dce3" stroke-opacity=".9" stroke-width="2"/>
-  <path d="M420 92 H780" stroke="#d8dce3" stroke-opacity=".7"/>
-  <circle cx="440" cy="80" r="3" fill="#d8dce3" opacity=".85"/><circle cx="454" cy="80" r="3" fill="#d8dce3" opacity=".55"/><circle cx="468" cy="80" r="3" fill="#d8dce3" opacity=".35"/>
-  <text x="600" y="151" text-anchor="middle" fill="#f3f4f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" letter-spacing="4" opacity=".94">&lt; BUILD / LEARN / REPEAT &gt;</text>
-  <path d="M516 180 H684" stroke="url(#fade)" stroke-width="2"/>
-  <circle cx="250" cy="77" r="5" fill="#f3f4f6"/><circle cx="950" cy="78" r="5" fill="#f3f4f6"/>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <ellipse cx="260" cy="138" rx="360" ry="250" fill="url(#glow)"/>
+  <path d="M-30 263C177 77 302 65 469 171S751 267 929 105 1143 76 1240 172" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-width="1.5"/>
+  <path d="M-30 285C177 99 302 87 469 193S751 289 929 127 1143 98 1240 194" fill="none" stroke="#a3adcf" stroke-opacity=".17" stroke-width="1"/>
+  <path d="M0 80C115 49 219 87 325 143L325 283C204 242 115 218 0 241Z" fill="url(#dots)" opacity=".48"/>
+  <circle cx="323" cy="143" r="4" fill="#55e0eb"/><circle cx="930" cy="106" r="4" fill="#a495ff"/>
+  <rect x="681" y="62" width="444" height="218" rx="14" fill="#0b101c" fill-opacity=".88" stroke="#c4c9e8" stroke-opacity=".35"/>
+  <path d="M681 103H1125" stroke="#c4c9e8" stroke-opacity=".2"/>
+  <circle cx="706" cy="83" r="4" fill="#ff7188"/><circle cx="722" cy="83" r="4" fill="#ffc36b"/><circle cx="738" cy="83" r="4" fill="#55e0a5"/>
+  <text x="770" y="88" fill="#aeb8d6" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="1">MainActivity.kt</text>
+  <text x="720" y="148" fill="#a395ff" font-family="ui-monospace,Consolas,monospace" font-size="17">fun</text><text x="760" y="148" fill="#f1f4ff" font-family="ui-monospace,Consolas,monospace" font-size="17">keepBuilding() {</text>
+  <text x="744" y="184" fill="#57dbe8" font-family="ui-monospace,Consolas,monospace" font-size="15">learn()</text>
+  <text x="744" y="216" fill="#ffbe73" font-family="ui-monospace,Consolas,monospace" font-size="15">buildSomethingUseful()</text>
+  <text x="720" y="252" fill="#f1f4ff" font-family="ui-monospace,Consolas,monospace" font-size="17">}</text>
+  <rect x="62" y="61" width="174" height="30" rx="15" fill="#a69aff" fill-opacity=".12" stroke="#a69aff" stroke-opacity=".44"/>
+  <circle cx="80" cy="76" r="4" fill="#55dce8"/><text x="94" y="81" fill="#d9ddf4" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.2">HELLO, WORLD</text>
+  <text x="62" y="160" fill="#f4f5ff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="38">Curiosity into code.</text>
+  <text x="64" y="196" fill="#b8c0d9" font-family="Arial,Helvetica,sans-serif" font-size="16">Kotlin · Android · thoughtful software</text>
+  <rect x="62" y="222" width="91" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="62" y="257" fill="#818ba9" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="2">TASHKENT  /  TURIN POLYTECHNIC</text>
 </svg>
