@@ -1,53 +1,84 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Monochrome terminal and network artwork" width="100%" />
+<img src="assets/profile-banner.svg" alt="Developer banner in indigo and cyan" width="100%" />
 
-# Hi, I’m Muhammadaziz 👋
+# Muhammadaziz Iminjonov
 
-### Student · Building software projects
+### Software development student · Tashkent
 
-**Turin Polytechnic University in Tashkent**
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827)](https://developer.android.com/) [![GitHub](https://img.shields.io/badge/GitHub-immuhammadaziz-181717?style=flat-square&logo=github)](https://github.com/immuhammadaziz)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I’m a student at Turin Polytechnic University in Tashkent, exploring software development through coursework and hands-on projects. I enjoy learning how applications fit together and turning ideas into working software.
+### 👋 About me
 
-- 🎓 Studying at Turin Polytechnic University in Tashkent
-- 💻 Building projects with Kotlin and exploring backend development
-- 🌱 Always learning, one project at a time
+I’m a student at **Turin Polytechnic University in Tashkent**, learning software development by building and exploring real projects. I’m especially interested in Kotlin, Android, and the way good architecture makes apps easier to grow.
 
-## 🧰 Tech Stack
+</td>
+<td width="45%" valign="top">
+
+### ✨ What I’m exploring
+
+- Android apps with Kotlin and Jetpack Compose
+- Architecture patterns and clean project structure
+- Backend development
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tools I use
 
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111827)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 📊 GitHub Activity
+## 🚀 Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ WeatherPatterns
+
+An Android weather app that demonstrates **MVC, MVP, MVVM, and MVI** on the same feature, built with Kotlin, Jetpack Compose, and Material 3.
+
+[Explore the project →](https://github.com/immuhammadaziz/practice4)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Kotlin Special Keywords
+
+A set of **15 Kotlin exercises** exploring inline functions, reified types, type aliases, and more.
+
+[Explore the project →](https://github.com/immuhammadaziz/lablatest)
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=immuhammadaziz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=immuhammadaziz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=immuhammadaziz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immuhammadaziz&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadaziz&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
-
-</div>
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-immuhammadaziz-181717?style=for-the-badge&logo=github)](https://github.com/immuhammadaziz)
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadaziz&bg_color=0d1117&color=c9d1d9&line=8b7cff&point=43d9e8&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -55,6 +86,6 @@ I’m a student at Turin Polytechnic University in Tashkent, exploring software 
 
 <div align="center">
 
-*Thanks for visiting — feel free to explore my repositories.*
+*Thanks for stopping by. Take a look at my projects and follow along as I build.*
 
 </div>
