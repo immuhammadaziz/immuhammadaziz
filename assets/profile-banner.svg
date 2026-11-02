@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Monochrome developer profile banner</title>
+  <desc id="desc">A dark canvas with dotted wave forms around a minimal terminal window.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151a22"/></linearGradient>
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.25" fill="#d6d9df" opacity=".76"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".04"/><stop offset=".5" stop-color="#fff" stop-opacity=".88"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <path d="M0 92 C100 68 150 34 236 62 C300 83 340 145 424 120 L424 210 C333 224 287 168 224 154 C145 136 96 167 0 183Z" fill="url(#dots)" opacity=".82"/>
+  <path d="M1200 84 C1092 61 1045 36 960 65 C892 88 851 147 770 123 L770 213 C860 224 911 169 974 154 C1053 136 1104 165 1200 184Z" fill="url(#dots)" opacity=".82"/>
+  <path d="M250 77 C335 111 351 166 427 164 M950 78 C865 111 849 166 773 164" fill="none" stroke="#f1f3f5" stroke-width="2" stroke-dasharray="2 8" opacity=".65"/>
+  <rect x="420" y="68" width="360" height="166" rx="7" fill="#0b0e14" stroke="#d8dce3" stroke-opacity=".9" stroke-width="2"/>
+  <path d="M420 92 H780" stroke="#d8dce3" stroke-opacity=".7"/>
+  <circle cx="440" cy="80" r="3" fill="#d8dce3" opacity=".85"/><circle cx="454" cy="80" r="3" fill="#d8dce3" opacity=".55"/><circle cx="468" cy="80" r="3" fill="#d8dce3" opacity=".35"/>
+  <text x="600" y="151" text-anchor="middle" fill="#f3f4f6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" letter-spacing="4" opacity=".94">&lt; BUILD / LEARN / REPEAT &gt;</text>
+  <path d="M516 180 H684" stroke="url(#fade)" stroke-width="2"/>
+  <circle cx="250" cy="77" r="5" fill="#f3f4f6"/><circle cx="950" cy="78" r="5" fill="#f3f4f6"/>
+</svg>
