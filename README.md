@@ -69,23 +69,10 @@ A set of **15 Kotlin exercises** exploring inline functions, reified types, type
 </tr>
 </table>
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=immuhammadaziz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immuhammadaziz&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-
-<br /><br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadaziz&bg_color=0d1117&color=c9d1d9&line=8b7cff&point=43d9e8&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
 ---
 
 <div align="center">
 
-*Thanks for stopping by. Take a look at my projects and follow along as I build.*
+*Thanks for stopping by. Scroll down to see my GitHub contribution graph.*
 
 </div>
